@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cmsc5373-mounika-webapps",
+  "private_key_id": "5bdd9ece8adda827af11053eac8e8e0a7520f1a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDay5ttpRFZio6g\n5ZNQEcHfJJPpG26UQjonlLm1/8c6sVpiH9uNSg/3b3/E+NfuVbAmlWl514ew/BIN\nys6kRiXAE+Akb7NU9rikYQwQJkYa0mLlKOnuqdAIXjkE82prX4g8+D1O2K37f0FJ\nUsiJVDNKBQ4+xJNDQHwD04FrLQ5bIaLzH44yO6Dgr0CX3uQ9N/mOe+5VDxxLjZf8\nilZvXTE2S85sfy5r/c/EBpQFc7udY+AQnKRD1ljR9F/uH1vxJjZaExsvM9HDUBBI\nd1vGvQgJ2uojb8W9nMBkZ0nRx65AkFZuQ8Wn8UFItSnpoYl49UTSUHdosGENqNC8\n80Re1lfZAgMBAAECggEABmDSHp+lwlT6NHGM2lQyMSWZVD3S+up1VIsO4OHcdncO\nGfcwyM0kawOql1zjupRv5qgLY5xnXb7zbciAPqS23AMYUSeadDsfBde4aM4c1BJX\nBLQtIaJ8qInKorzP2OJ3j8Ny0hYZ+E9s4UzTAMHeHuXH1QeY/WhnVRs41h2BoiFq\nlqHqSo+3tyiKH0hNqgNLBrrtl43fNAklSfs6kMhZ5lv7jkmyqui70QdPpTbnqCWQ\nMvrsGW75dZ+hIjQukNZwApPrI43TF2EpfJjriX+R7kBoQUxz2qIQQL+ac61RuEkW\nhOpl8I+MY4UZG63WMdoT2OZlS3v42v2ayXeC3E38wQKBgQD07De61WW3xjIL8PWA\n5cffN2A2DkGmUO/Ul+OBsUrjRjxUhkqqj8r8h0fMzmvJt3Zasnbd10d4PEZjTIws\nV+n3W3Naa6vrRFS8jyziYWrodsp6eDSbLFbde6PYBddkm2kXQpxpndrWZOxKyOge\n4nR+zxYuelw9jjo/s5cTJVMrMQKBgQDksOEi01qp8NlbiOgOJP54ACaY7H5vfhY/\n29bLoRKMSOpwA6Z8JBnN+e5S1fGm2nEPHDSBCIUcIgdlGogHMjET6anGD3HWqDf6\nco2nxPrVkL2xTKs7125eWFWst6s59BpXn9bylvx++uaaA/1Nax5ku/nfoD1yoKsY\nf03PkOX9KQKBgQCkTQJlt1nxGmfgUtiei4a1WzSTjqTDqW/5sZrRGdoe9LLsENpt\n6OBG34lu/tqYCxa+aRIMZ6puIiEl4+f0p1Uwtox/j9NYlBI0G+gERU2ufGIAHjtM\nDUaIdbTH6cNAnnC1Rd4fi+GOCU3qLTRp44g6uTksHLFcKdkxeoxSL6vHQQKBgQCg\nT5HyrMBQgsKLlQQ+7hXoHwrvhlD3bSbBqyT+Z7It3utgjF6HhXMFXd9/9/PHKDe7\nBOWVUlilKQGQETIsATZAJDtb2PXPKOrcyLKeWcoQLb+b6wfaEiGPR1L/mV0RahmR\nNT4jnk3v4YgHjSZiv+V1bgQyjAynLxPhP1RXXdarSQKBgQCfEU+b+Kn7LpF7zXK2\nOeYJLiMG2sAfabvQam6oaF2J1Gj1oPYvZy7SF9Xd+coDXHD7jY7ul43pv44uoV6F\nPjx2tFy5a5Qem0cTy/IYFkcgTIb8MoJHiCeOQ07YI9puQbP4cMS6s9ZYLtOqNOms\nBvHOSl+XG9b6zAhYgZlverlahg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4biif@cmsc5373-mounika-webapps.iam.gserviceaccount.com",
+  "client_id": "107630050603270313942",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4biif%40cmsc5373-mounika-webapps.iam.gserviceaccount.com"
+}
